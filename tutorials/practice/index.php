@@ -19,10 +19,9 @@
                      // $('#result').html(data);
                      alert(data);
                  });
-
-        fgfg
+        
               });
-          }) ;
+          });
     </script>
 
 </head>
